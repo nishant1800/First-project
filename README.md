@@ -1,1 +1,1 @@
-This is my firsr project of web development. with the help of HTML & CSS we creat a random project.
+This is my first project of web development. with the help of HTML & CSS we creat a random project.
